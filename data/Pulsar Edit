@@ -1,0 +1,11 @@
+Pulsar A Community-led Hyper-Hackable Text Editor
+- Cross-platform Editing
+Pulsar works across operating systems. Use it on OS X, Windows, or Linux
+- Multiple panes
+Split your Pulsar interface into multiple panes to compare and edit code across files.
+- Smart Autocompletion
+Pulsar helps you write code faster with a smart and flexible autocomplete.
+------------------------------------------------------------------------------
+Add Pulsar in to AppImage Catalog - https://appimage.github.io/apps/
+https://github.com/pulsar-edit/pulsar/releases/download/v1.100.0-beta/Linux.Pulsar-1.100.0-beta.AppImage
+https://github.com/pulsar-edit/pulsar/releases
